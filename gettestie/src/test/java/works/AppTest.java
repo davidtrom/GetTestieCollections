@@ -1,4 +1,4 @@
-package rocks.zipcode;
+package works;
 
 import org.junit.Test;
 

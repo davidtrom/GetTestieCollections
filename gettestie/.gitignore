@@ -25,3 +25,6 @@ buildNumber.properties
 .classpath
 .project
 .vscode/
+
+#DS Store Stuff
+*.DS_Store

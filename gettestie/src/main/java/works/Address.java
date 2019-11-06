@@ -1,4 +1,4 @@
-package gettestie.src.main.java.rocks.zipcode;
+package works;
 
 public class Address {
     private String street;
