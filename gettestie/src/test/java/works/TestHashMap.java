@@ -1,3 +1,4 @@
+package works;
 
 import org.junit.Assert;
 import org.junit.Before;
@@ -12,10 +13,10 @@ import java.util.Map;
 public class TestHashMap {
 
 public static Map<Person, Address> testHash ;
-    Map<Person, Address> expected = new HashMap<>();
+
 
     Map<String, String> testHash2 =  new HashMap<String, String>();
-    //testHash = new HashMap<>();
+
 
     @Before
     public void setUp() throws Exception {

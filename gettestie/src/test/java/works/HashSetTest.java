@@ -16,12 +16,12 @@ Set<Person> myHashSet = new HashSet<>();
 
     @Before
     public void setUp() throws Exception {
-        Person tp1 = new Person("John", 1992);
-        Person tp2 = new Person("Sarah", 1954);
-        Person tp3 = new Person("Jose", 1959);
-        Person tp4 = new Person("Sandy", 1964);
-        Person tp5 = new Person("Elizabeth", 1974);
-        Person tp6 = new Person("David", 1982);
+        tp1 = new Person("John", 1992);
+        tp2 = new Person("Sarah", 1954);
+        tp3 = new Person("Jose", 1959);
+        tp4 = new Person("Sandy", 1964);
+        tp5 = new Person("Elizabeth", 1974);
+        tp6 = new Person("David", 1982);
         myHashSet.add(tp1);;
         myHashSet.add(tp3);
         myHashSet.add(tp4);
